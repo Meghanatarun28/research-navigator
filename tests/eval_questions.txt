@@ -1,0 +1,20 @@
+What is a transformer?
+What is BERT?
+What is GPT-3?
+What is LoRA?
+What is RLHF?
+What is ReAct?
+What is RAG?
+What is CRAG?
+What is quantization?
+What is Mixtral?
+What is speculative decoding?
+What is chain of thought prompting?
+What is instruction tuning?
+What is fine tuning?
+How does self attention work?
+What is few shot learning?
+What is Llama 2?
+What is a Mixture of Experts model?
+What are open source LLMs?
+What is retrieval augmented generation?

@@ -1,0 +1,11 @@
+What is a transformer?
+
+Explain Attention Is All You Need paper
+
+Compare BERT vs GPT-3
+
+Recent developments in RAG
+
+Find papers about Transformers
+
+What is today's weather?

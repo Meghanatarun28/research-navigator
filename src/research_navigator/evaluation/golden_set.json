@@ -1,0 +1,187 @@
+[
+{
+"question": "What is a transformer?",
+"expected_sources": ["Attention Is All You Need"]
+},
+{
+"question": "What is BERT?",
+"expected_sources": ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"]
+},
+{
+"question": "What is GPT-3?",
+"expected_sources": ["Language Models are Few-Shot Learners"]
+},
+{
+"question": "What is LoRA?",
+"expected_sources": ["LoRA: Low-Rank Adaptation of Large Language Models"]
+},
+{
+"question": "What is RLHF?",
+"expected_sources": ["Training Language Models to Follow Instructions with Human Feedback"]
+},
+{
+"question": "What is instruction tuning?",
+"expected_sources": ["Training Language Models to Follow Instructions with Human Feedback"]
+},
+{
+"question": "What is ReAct?",
+"expected_sources": ["ReAct: Synergizing Reasoning and Acting in Language Models"]
+},
+{
+"question": "What is retrieval augmented generation?",
+"expected_sources": ["Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"]
+},
+{
+"question": "Explain Attention Is All You Need paper",
+"expected_sources": ["Attention Is All You Need"]
+},
+{
+"question": "Explain BERT paper",
+"expected_sources": ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"]
+},
+{
+"question": "Explain GPT-3 paper",
+"expected_sources": ["Language Models are Few-Shot Learners"]
+},
+{
+"question": "Explain LoRA paper",
+"expected_sources": ["LoRA: Low-Rank Adaptation of Large Language Models"]
+},
+{
+"question": "Explain Llama 2 paper",
+"expected_sources": ["Llama 2: Open Foundation and Fine-Tuned Chat Models"]
+},
+{
+"question": "Compare BERT vs GPT-3",
+"expected_sources": [
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+"Language Models are Few-Shot Learners"
+]
+},
+{
+"question": "Compare LoRA vs full fine tuning",
+"expected_sources": ["LoRA: Low-Rank Adaptation of Large Language Models"]
+},
+{
+"question": "Compare GPT-3 vs Llama 2",
+"expected_sources": [
+"Language Models are Few-Shot Learners",
+"Llama 2: Open Foundation and Fine-Tuned Chat Models"
+]
+},
+{
+"question": "Recent developments in RAG",
+"expected_sources": []
+},
+{
+"question": "Latest work on long context models",
+"expected_sources": ["Long-context LLMs Struggle with Long In-context Learning"]
+},
+{
+"question": "Recent developments in multimodal models",
+"expected_sources": []
+},
+{
+"question": "Find papers about transformers",
+"expected_sources": ["Attention Is All You Need"]
+},
+{
+"question": "Recommend foundational LLM papers",
+"expected_sources": [
+"Attention Is All You Need",
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+"Language Models are Few-Shot Learners"
+]
+},
+{
+"question": "Who won IPL 2025?",
+"expected_sources": []
+},
+{
+"question": "What is Bitcoin price today?",
+"expected_sources": []
+},
+{
+"question": "What is the weather in Hyderabad?",
+"expected_sources": []
+},
+{
+"question": "What is Llama 2?",
+"expected_sources": ["Llama 2: Open Foundation and Fine-Tuned Chat Models"]
+},
+{
+"question": "What is Gemma?",
+"expected_sources": ["Gemma 2: Improving Open Language Models at a Practical Size"]
+},
+{
+"question": "What is fine tuning?",
+"expected_sources": ["LoRA: Low-Rank Adaptation of Large Language Models"]
+},
+{
+"question": "What is prompt engineering?",
+"expected_sources": ["Language Models are Few-Shot Learners"]
+},
+{
+"question": "Explain RLHF paper",
+"expected_sources": ["Training Language Models to Follow Instructions with Human Feedback"]
+},
+{
+"question": "Explain ReAct paper",
+"expected_sources": ["ReAct: Synergizing Reasoning and Acting in Language Models"]
+},
+{
+"question": "Explain Gemma paper",
+"expected_sources": ["Gemma 2: Improving Open Language Models at a Practical Size"]
+},
+{
+"question": "Explain FlashAttention paper",
+"expected_sources": ["FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision"]
+},
+{
+"question": "Compare BERT vs Llama 2",
+"expected_sources": [
+"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+"Llama 2: Open Foundation and Fine-Tuned Chat Models"
+]
+},
+{
+"question": "Compare LoRA vs QLoRA",
+"expected_sources": ["LoRA: Low-Rank Adaptation of Large Language Models"]
+},
+{
+"question": "Compare ReAct vs Chain of Thought",
+"expected_sources": ["ReAct: Synergizing Reasoning and Acting in Language Models"]
+},
+{
+"question": "Compare GPT-3 vs Gemma",
+"expected_sources": [
+"Language Models are Few-Shot Learners",
+"Gemma 2: Improving Open Language Models at a Practical Size"
+]
+},
+{
+"question": "Recent developments in attention mechanisms",
+"expected_sources": [
+"FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision"
+]
+},
+{
+"question": "Recent developments in open source LLMs",
+"expected_sources": [
+"Llama 2: Open Foundation and Fine-Tuned Chat Models",
+"Gemma 2: Improving Open Language Models at a Practical Size"
+]
+},
+{
+"question": "Recent developments in fine tuning",
+"expected_sources": [
+"LoRA: Low-Rank Adaptation of Large Language Models"
+]
+},
+{
+"question": "Recent developments in agent systems",
+"expected_sources": [
+"ReAct: Synergizing Reasoning and Acting in Language Models"
+]
+}
+]

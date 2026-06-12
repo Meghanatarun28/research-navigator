@@ -1,0 +1,9 @@
+{
+    "queries_evaluated": 40,
+    "precision": 0.435,
+    "recall": 0.637,
+    "avg_latency": 0.036,
+    "p50_latency": 0.032,
+    "p95_latency": 0.057,
+    "refusal_accuracy": 1.0
+}
